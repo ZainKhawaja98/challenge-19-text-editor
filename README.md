@@ -5,14 +5,6 @@ https://murmuring-thicket-85239.herokuapp.com/
 
 This project is a text editor that meets PWA criteria and can run offline. It allows users to create code snippets without an internet connection. I learned how to use indexDB to create an object store, create a service worker, and run webpack plugins. 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
