@@ -1,13 +1,9 @@
+https://murmuring-thicket-85239.herokuapp.com/
 # challenge-19-text-editor
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This project is a text editor that meets PWA criteria and can run offline. It allows users to create code snippets without an internet connection. I learned how to use indexDB to create an object store, create a service worker, and run webpack plugins. 
 
 ## Table of Contents (Optional)
 
@@ -26,7 +22,9 @@ Clone or fork the repo and open the command line.  Type npm install and npm run 
 
 Open the application in a web browser and click on install. After it is installed the user will be able to access code snippets without an internet connection.
 
-![alt text](client/src/images/screenshot.png)
+![alt text](client/src/images/photo.png)
+![alt text](client/src/images/photo2.png)
+
 
 ## Credits
 N/A
